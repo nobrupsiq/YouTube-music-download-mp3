@@ -9,8 +9,8 @@ Este é um aplicativo Python que permite baixar músicas do YouTube de forma sim
    pip install youtubesearchpython yt_dlp
 
 ## Edite a lista de músicas: Modifique a variável musicas no arquivo main.py para incluir as músicas que você deseja baixar.
-2. **Execute o script:**
-  ```bash
+2. **Execute o programa:**
+   ```bash
    python main.py
 
 # OBS: Precisa ter o ffmpeg no computador.
